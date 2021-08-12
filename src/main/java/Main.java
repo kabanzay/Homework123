@@ -29,7 +29,6 @@ public class Main extends Utils {
                 break;
 
             case 2:
-                System.out.println("Выбран поиск максимального элемента в массиве");
                 maxWordInArray(scanner);
                 break;
             default:
